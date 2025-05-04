@@ -30,4 +30,4 @@ Le projet inclut :
 1. Cloner le dépôt
 2. Installer les dépendances  
    ```bash
-   pip
+   pip install -r requirements.txt
